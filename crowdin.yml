@@ -1,0 +1,3 @@
+files:
+  - source: /zh-hans/*.json
+    translation: /%locale%/%original_file_name%
